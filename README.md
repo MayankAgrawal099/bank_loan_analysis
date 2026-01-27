@@ -22,16 +22,29 @@ This simulates a real-world financial analytics use case.
 
 ## 📁 Repository Structure
 
+```
 bank_loan_analysis/
 │
-├── bank_loan_data.csv
-├── Problem Statement.docx
+├── bank_loan_data_csv.csv           # Main dataset csv
+├── bank_loan_data_excel.xlsx        # Main dataset excel
+├── Problem Statement.docx           # Project problem statement
+├── README.md                        # Main project documentation
 │
 ├── SQL_analysis/
+│   ├── bank_loan_sql_analysis.sql   # SQL analysis queries
+│   ├── bank_loan_query_doc.pdf      # Query explanations + outputs
+│   └── README.md                    # SQL section documentation
+│
 ├── Python_analysis/
+│   └── README.md                    # Python EDA and scripts
+│
 ├── Excel_analysis/
-├── PowerBI/
-└── Tableau/
+│   └── README.md                    # Excel analysis files
+│
+└── PowerBI/
+    └── README.md                    # Power BI dashboards
+```
+
 
 Each folder contains tool-specific analysis.
 
@@ -83,7 +96,7 @@ git clone https://github.com/MayankAgrawal099/bank_loan_analysis.git
 ```
 
 
-2. Open `bank_loan_data.csv` to explore the dataset.
+2. Open `bank_loan_data_csv.csv` to explore the dataset.
 
 3. Navigate to individual folders (SQL, Python, Power BI, Tableau) to view tool-specific analysis.
 
