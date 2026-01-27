@@ -16,7 +16,6 @@ SQL_analysis/
 └── README.md                    # SQL section documentation
 ```
 
-
 ---
 
 ## 📄 Files Explained
