@@ -8,11 +8,13 @@ The SQL analysis focuses on extracting business insights such as approval rates,
 
 ## 📂 Folder Contents
 
+```
 SQL_analysis/
 │
 ├── bank_loan_sql_analysis.sql   # SQL analysis queries
 ├── bank_loan_query_doc.pdf      # Query explanations + outputs
 └── README.md                    # SQL section documentation
+```
 
 
 ---
