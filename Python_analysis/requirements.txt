@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+openpyxl
+ipython
+nbformat>=4.2.0
+ipykernel
+jupyter_client
