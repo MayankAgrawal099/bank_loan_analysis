@@ -25,24 +25,26 @@ This simulates a real-world financial analytics use case.
 ```
 bank_loan_analysis/
 │
-├── bank_loan_data_csv.csv           # Main dataset csv
-├── bank_loan_data_excel.xlsx        # Main dataset excel
-├── Problem Statement.docx           # Project problem statement
-├── README.md                        # Main project documentation
+├── bank_loan_data_csv.csv                  # Main dataset csv
+├── bank_loan_data_excel.xlsx               # Main dataset excel
+├── Problem Statement.docx                  # Project problem statement
+├── README.md                               # Main project documentation
 │
 ├── SQL_analysis/
-│   ├── bank_loan_sql_analysis.sql   # SQL analysis queries
-│   ├── bank_loan_query_doc.pdf      # Query explanations + outputs
-│   └── README.md                    # SQL section documentation
+│   ├── bank_loan_sql_analysis.sql          # SQL analysis queries
+│   ├── bank_loan_query_doc.pdf             # Query explanations + outputs
+│   └── README.md                           # SQL section documentation
 │
 ├── Python_analysis/
-│   └── README.md                    # Python EDA and scripts
+│   └── README.md                           # Python EDA and scripts
+│   └── bank_loan_python_analysis.ipynb     # Python analysis and visuals
+│   └── requirements.txt                    # Requirements for Python analysis
 │
 ├── Excel_analysis/
-│   └── README.md                    # Excel analysis files
+│   └── README.md                           # Excel analysis files
 │
 └── PowerBI/
-    └── README.md                    # Power BI dashboards
+    └── README.md                           # Power BI dashboards
 ```
 
 
