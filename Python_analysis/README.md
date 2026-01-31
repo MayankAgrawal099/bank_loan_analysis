@@ -13,7 +13,7 @@ Python_analysis/
 │
 ├── bank_loan_python_analysis.ipynb  # Python EDA and Scripts
 ├── requirements.txt                 # Python dependencies
-└── README.md                        # Python Section Documentation
+└── README.md                        # Python section documentation
 ```
 
 ---
