@@ -43,8 +43,13 @@ bank_loan_analysis/
 ├── Excel_analysis/
 │   └── README.md                         # Excel analysis files
 │
-└── PowerBI/
-    └── README.md                         # Power BI dashboards
+└── PowerBI_dashboard/
+    ├── bank_loan_report.pbix             # Main Power BI dashboard file
+    ├── Dashboard_Preview                 # Dashboard screenshots
+    │   ├── Summary.png
+    │   ├── Overview.png
+    │   └── Details.png
+    └── README.md                         # Power BI documentation
 ```
 
 
