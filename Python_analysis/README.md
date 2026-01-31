@@ -11,9 +11,9 @@ The analysis is performed using Jupyter Notebook and focuses on understanding lo
 ```
 Python_analysis/
 │
-├── bank_loan_python_analysis.ipynb   # Main Python EDA notebook
+├── bank_loan_python_analysis.ipynb  # Python EDA and Scripts
 ├── requirements.txt                 # Python dependencies
-└── .gitignore                       # Ignored files
+└── README.md                        # Python Section Documentation
 ```
 
 ---
@@ -163,5 +163,6 @@ Insights from this notebook can be:
 
 - Compared with SQL results  
 - Used in Power BI dashboards  
+- Compared with Excel analysis
 
 ---
