@@ -37,8 +37,8 @@ bank_loan_analysis/
 │
 ├── Python_analysis/
 │   └── README.md                           # Python EDA and scripts
-│   └──bank_loan_python_analysis.ipynb      # Python analysis and visuals
-│   └──requirements.txt                     # Requirements for Python analysis
+│   └── bank_loan_python_analysis.ipynb     # Python analysis and visuals
+│   └── requirements.txt                    # Requirements for Python analysis
 │
 ├── Excel_analysis/
 │   └── README.md                           # Excel analysis files
