@@ -65,17 +65,17 @@ Supports deep drill-down analysis.
 ## 🖼 Dashboard Previews
 
 ### ✅ Summary Page
-![Summary Dashboard](Dashboard_preview/Summary.png)
+![Summary Dashboard](https://github.com/MayankAgrawal099/bank_loan_analysis/blob/main/PowerBI_dashboard/Dashboard_Preview/Summary.png)
 
 ---
 
 ### ✅ Overview Page
-![Overview Dashboard](Dashboard_preview/Overview.png)
+![Overview Dashboard](https://github.com/MayankAgrawal099/bank_loan_analysis/blob/main/PowerBI_dashboard/Dashboard_Preview/Overview.png)
 
 ---
 
 ### ✅ Details Page
-![Details Dashboard](Dashboard_preview/Details.png)
+![Details Dashboard](https://github.com/MayankAgrawal099/bank_loan_analysis/blob/main/PowerBI_dashboard/Dashboard_Preview/Details.png)
 
 ---
 
