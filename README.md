@@ -40,9 +40,6 @@ bank_loan_analysis/
 │   └── requirements.txt                  # Python Dependencies
 │   └── README.md                         # Python section documentation
 │
-├── Excel_analysis/
-│   └── README.md                         # Excel analysis files
-│
 └── PowerBI_dashboard/
     ├── bank_loan_report.pbix             # Main Power BI dashboard file
     ├── Dashboard_Preview                 # Dashboard screenshots
